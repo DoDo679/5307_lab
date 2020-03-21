@@ -1,6 +1,6 @@
-# 5301_lab
+# 5307_lab
 
-This is the lab from Thei DIT5301 lesson
+This is the lab from Thei DIT5307 lesson
 It is the course about the Enterprise Architecture and System Development
 including: Java EE, JSP, JSF...
 
